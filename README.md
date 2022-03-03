@@ -22,4 +22,4 @@
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![RegEx](https://img.shields.io/badge/RegEx-%20-grey?style=for-the-badge&logo=appveyor)
+![RegEx](https://img.shields.io/badge/RegEx-%20-grey?style=for-the-badge&logo=regex)
