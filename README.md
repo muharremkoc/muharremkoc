@@ -5,7 +5,7 @@
 ### :mailbox: How to reach me  :
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmuho5885@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-%20Muharrem%20Ko%C3%A7-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muharrem-ko%C3%A7-47a7a018a//)
+[![Linkedin Badge](https://img.shields.io/badge/-%20On%20LinkedIn3%A7-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muharrem-ko%C3%A7-47a7a018a//)
 ### Languages and Tools :hammer_and_pick: :
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
