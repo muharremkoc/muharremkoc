@@ -1,8 +1,4 @@
 ## Hi there  ,I'm Muharrem Koç
-### :pushpin: GitHub Stats And Top Languages :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muharremkoc&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muharremkoc&theme=blue-green)
-### :mailbox: How to reach me  :
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmuho5885@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-%20On%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muharrem-ko%C3%A7-47a7a018a//)
