@@ -21,5 +21,3 @@
 ![RegEx](https://img.shields.io/badge/RegEx-%20-grey?style=for-the-badge&logo=/e/)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-https://camo.githubusercontent.com/25eac3b6a48df9b23361192995aa6b8600d00ac8d75030171d59974ce3beb47c/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f696e736f6c6974756d2f636f756e742e737667
