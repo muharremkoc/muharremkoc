@@ -21,3 +21,6 @@
 ![RegEx](https://img.shields.io/badge/RegEx-%20-grey?style=for-the-badge&logo=/e/)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+
+![Visitor Count](https://profile-counter.glitch.me/muharremkoc/count.svg)
